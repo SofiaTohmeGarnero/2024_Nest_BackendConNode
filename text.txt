@@ -1,2 +1,0 @@
-commit 1 reset activity
-commit 2 reset activity
